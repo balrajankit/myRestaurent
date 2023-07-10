@@ -1,0 +1,137 @@
+{
+
+"restaurents":[
+  {
+    "id": 1,
+    "name":"LKO Dhaba",
+    "type":"vegeterian",
+    "Image": "/Images/res1.jpg"
+
+  },
+  {
+    "id": 2,
+    "name":"Royal Cafe",
+    "type":"Non vegeterian",
+    "Image": "/Images/res2.jpg"
+
+  },
+  {
+    "id": 3,
+    "name":"Capgemini Point",
+    "type":"vegeterian",
+    "Image": "/Images/res3.jpg"
+
+  },
+  {
+    "id": 4,
+    "name":"Big Toys",
+    "type":"Non vegeterian",
+    "Image": "/Images/res4.jpg"
+
+  },
+  {
+    "id": 5,
+    "name":"Hanuman",
+    "type":"Non vegeterian",
+    "Image": "/Images/res5.jpg"
+
+  },
+  {
+    "id": 6,
+    "name":"Hunger",
+    "type":"Non vegeterian",
+    "Image": "/Images/res6.jpg"
+
+  }
+
+
+],
+
+"foods":[
+  {
+    "id": 1,
+    "name":"Panner",
+    "type":"vegeterian",
+    "Image": "/Images/res1.jpg",
+    "price": "200"
+
+  },
+  {
+    "id": 2,
+    "name":"Kabab",
+    "type":"Non vegeterian",
+    "Image": "/Images/res2.jpg",
+    "price": "100"
+
+  },
+  {
+    "id": 3,
+    "name":"Burger",
+    "type":"vegeterian",
+    "Image": "/Images/res3.jpg",
+    "price": "150"
+  },
+  {
+    "id": 4,
+    "name":"Pizza",
+    "type":"vegeterian",
+    "Image": "/Images/res4.jpg",
+    "price": "150"
+
+  },
+  {
+    "id": 5,
+    "name":"Chiken",
+    "type":"Non vegeterian",
+    "Image": "/Images/res5.jpg",
+    "price": "400"
+
+  },
+  {
+    "id": 6,
+    "name":"Mutton",
+    "type":"Non vegeterian",
+    "Image": "/Images/res6.jpg",
+    "price": "400"
+
+  },
+  {
+    "id": 7,
+    "name":"Chiken burger",
+    "type":"Non vegeterian",
+    "Image": "/Images/res4.jpg",
+    "price":"400"
+
+  },
+  {
+    "id": 8,
+    "name":"Chiken curry",
+    "type":"Non vegeterian",
+    "Image": "/Images/res5.jpg",
+    "price": "400"
+
+  },
+  {
+    "id": 9,
+    "name":"Egg",
+    "type":"Non vegeterian",
+    "Image": "/Images/res6.jpg",
+    "price": "400"
+
+  },
+  {
+    "id": 10,
+    "name":"Chole",
+    "type":"vegeterian",
+    "Image": "/Images/res2.jpg",
+    "price": "100"
+
+  }
+
+
+]
+
+
+
+  
+}

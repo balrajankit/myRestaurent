@@ -1,0 +1,78 @@
+
+
+.active
+{
+    color: white;
+    font-weight: bold;
+    
+    background-color: #1565c0;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+   
+}
+.test
+{
+    color: aqua;
+}
+.nonActive
+{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    text-decoration: none;
+    
+}
+.nonActive:hover{
+    color: white;
+    background-color: #33bfff;
+    border-radius: 5px;
+}
+.active:hover{
+    color: white;
+    text-decoration: none;
+    padding: 20;
+}
+#basic-nav-dropdown
+{
+    color: white;
+}
+.p{
+    color: red;
+}
+.searchBar{
+    position: relative;
+    top: 0px;
+    left: 50%;
+    align-items: right;
+}
+@media (max-width: 600px)
+{
+    .branname
+    {
+        display: none;
+    }
+    .searchBar
+    {
+        width: 150px;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        
+    }
+}
+
+.myHeading
+{
+    color: #2196f3;
+    font-family: cursive;
+    letter-spacing: .5px;
+    margin-bottom: 10px;
+}
+.myTitle
+{
+    font-family: Georgia;
+    letter-spacing: .5px;
+}
